@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-def select_roi()
+def select_roi():
     # Read image
     im = cv2.imread("pic.png")
     # im = cv2.imread("image.jpg")
