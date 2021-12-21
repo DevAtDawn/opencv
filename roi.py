@@ -16,5 +16,5 @@ def select_roi():
     cv2.imshow("Image", imCrop)
     cv2.waitKey(0)
     
-if __name__ == '__main__'
+if __name__ == '__main__':
     select_roi()
